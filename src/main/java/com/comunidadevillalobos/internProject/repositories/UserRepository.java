@@ -6,6 +6,4 @@ import com.comunidadevillalobos.internProject.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 	
-	
-
 }
